@@ -1,0 +1,12 @@
+E:\Projects\kodeKern\Domain\bin\Debug\net8.0\Domain.deps.json
+E:\Projects\kodeKern\Domain\bin\Debug\net8.0\Domain.dll
+E:\Projects\kodeKern\Domain\bin\Debug\net8.0\Domain.pdb
+E:\Projects\kodeKern\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\kodeKern\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+E:\Projects\kodeKern\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+E:\Projects\kodeKern\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+E:\Projects\kodeKern\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+E:\Projects\kodeKern\Domain\obj\Debug\net8.0\Domain.dll
+E:\Projects\kodeKern\Domain\obj\Debug\net8.0\refint\Domain.dll
+E:\Projects\kodeKern\Domain\obj\Debug\net8.0\Domain.pdb
+E:\Projects\kodeKern\Domain\obj\Debug\net8.0\ref\Domain.dll

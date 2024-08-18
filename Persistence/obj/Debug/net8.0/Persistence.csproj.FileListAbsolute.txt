@@ -1,0 +1,16 @@
+E:\Projects\kodeKern\Persistence\bin\Debug\net8.0\Persistence.deps.json
+E:\Projects\kodeKern\Persistence\bin\Debug\net8.0\Persistence.dll
+E:\Projects\kodeKern\Persistence\bin\Debug\net8.0\Persistence.pdb
+E:\Projects\kodeKern\Persistence\bin\Debug\net8.0\Domain.dll
+E:\Projects\kodeKern\Persistence\bin\Debug\net8.0\Domain.pdb
+E:\Projects\kodeKern\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+E:\Projects\kodeKern\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\kodeKern\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+E:\Projects\kodeKern\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+E:\Projects\kodeKern\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+E:\Projects\kodeKern\Persistence\obj\Debug\net8.0\Persistence.sourcelink.json
+E:\Projects\kodeKern\Persistence\obj\Debug\net8.0\Persiste.61C28332.Up2Date
+E:\Projects\kodeKern\Persistence\obj\Debug\net8.0\Persistence.dll
+E:\Projects\kodeKern\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+E:\Projects\kodeKern\Persistence\obj\Debug\net8.0\Persistence.pdb
+E:\Projects\kodeKern\Persistence\obj\Debug\net8.0\ref\Persistence.dll
